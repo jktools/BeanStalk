@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="manage_sim_contacts">Manage SIM card contacts</string>
+    <string name="export_to_sim">Export to SIM card</string>
+    <string name="Import_All">Import Contacts From All SIMs</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_sim">Select SIM</string>
     <string name="config_export_vcard_type">기본값</string>
     <string name="config_import_vcard_type">기본값</string>
     <string name="config_export_file_prefix" />
@@ -143,7 +149,6 @@
     <string name="listCustomView">주소록 맞춤 보기</string>
     <string name="listSingleContact">단일 연락처</string>
     <string name="dialog_new_contact_account">연락처 추가할 계정 선택하기</string>
-    <string name="import_from_sim">SIM 카드에서 가져오기</string>
     <string name="import_from_sdcard">저장소에서 가져오기</string>
     <string name="cancel_import_confirmation_message">%s 가져오기를 취소하시겠습니까?</string>
     <string name="cancel_export_confirmation_message">%s 내보내기를 취소하시겠습니까?</string>
@@ -249,6 +254,7 @@
     <string name="call_stats_sort_by_count">통화 횟수로 정렬</string>
     <string name="menu_add_to_blacklist">차단 목록에 추가</string>
     <string name="toast_added_to_blacklist">%s 차단 목록에 추가됨.</string>
+	<string name="dial_conference">회의 전화</string>
     <string name="config_prohibited_phone_number_regexp" />
     <string name="applicationLabel">다이얼러</string>
     <string name="launcherDialer">휴대전화</string>
@@ -360,4 +366,5 @@
     <string name="simContacts_emptyLoading">SIM 카드에서 로딩 중...</string>
     <string name="simContacts_title">SIM 카드 주소록</string>
     <string name="add_contact_not_available">이 기능을 사용하려면 주소록 애플리케이션을 사용하도록 다시 설정하세요.</string>
+	<string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
 </resources>

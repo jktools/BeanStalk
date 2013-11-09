@@ -557,4 +557,9 @@
 	 <string-array name="location_entries_gps_source">
         <item>내부 GPS 사용</item>
     </string-array>
+	<string-array name="multi_sim_entries">
+        <item>구독 1</item>
+        <item>구독 2</item>
+        <item>구독 3</item>
+    </string-array>
 </resources>

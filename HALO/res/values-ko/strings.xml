@@ -11,12 +11,12 @@
     <string name="icon_custom">사용자</string>
     <string name="unknown">알수 없음</string>
     <string name="stop_to_remove">목록에 있는 앱을 제거하기 전에 서비스를 중지해야 합니다.</string>
-    <string name="ext_notes">참고</string>
+    <string name="notes">참고</string>
     <string name="note">노트</string>
-    <string name="empty">빈 노트</stri
+    <string name="empty">빈 노트</string>
 	<string name="no_pa_rom_title">호환되는 ROM이 실행되어 있지 않습니다!</string>
-    <string name="nopa_content">Halo)))는 ParanoidAndroid ROM에서 작동하도록 설계되어 있습니다. 애플리케이션의 잠재력을 최대한 발휘할 수 없습니다!</string>
-    <string name="nopa_ok">확인</string>
+    <string name="no_pa_rom_content">Halo)))는 ParanoidAndroid ROM에서 작동하도록 설계되어 있습니다. 애플리케이션의 잠재력을 최대한 발휘할 수 없습니다!</string>
+    <string name="no_pa_rom_ok">확인</string>
     <string name="description_1">도우미 1</string>
     <string name="description_2">도우미 2</string>
     <string name="description_3">도우미 3</string>

@@ -23,9 +23,7 @@
         <item>능글맞은 웃음</item>
         <item>무표정한 얼굴</item>
     </string-array>
-    <string-array name="empty_subject_strings">
-        <item>제목 없음</item>
-    </string-array>
+    
     <string-array name="pref_mms_notification_vibrate_pattern_entries">
         <item>일반</item>
         <item>중간 진동</item>
@@ -33,6 +31,32 @@
         <item>여러번 짧게</item>
         <item>여러번 길게</item>
         <item>@string/pref_title_mms_notification_vibrate_custom</item>
+    </string-array>
+	<string-array name="pref_entries_input_type">
+        <item>스마일 키</item>
+        <item>보내기</item>
+        <item>새 줄에 입력</item>
+    </string-array>
+	<string-array name="empty_subject_strings">
+        <item>제목 없음</item>
+    </string-array>
+	<string-array name="font_size_styles">
+        <item>10 dp</item>
+        <item>12 dp</item>
+        <item>14 dp</item>
+        <item>16 dp (기본값)</item>
+        <item>18 dp</item>
+        <item>20 dp</item>
+        <item>22 dp</item>
+    </string-array>
+	<string-array name="contact_font_size_styles">
+        <item>10 dp</item>
+        <item>12 dp</item>
+        <item>14 dp</item>
+        <item>16 dp (기본값)</item>
+        <item>18 dp</item>
+        <item>20 dp</item>
+        <item>22 dp</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1초</item>

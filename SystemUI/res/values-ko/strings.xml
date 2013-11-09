@@ -370,4 +370,5 @@
     <string name="halo_signal_bars_1">신호바 1개</string>
     <string name="halo_signal_bars_none">신호바 없음</string>
     <string name="brightness_label">밝기</string>
+	<string name="status_bar_recent_add_to_split_view">분할된 뷰에 추가</string>
 </resources>

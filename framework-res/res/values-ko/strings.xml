@@ -1385,4 +1385,29 @@
     <string name="permdesc_revokePermissions">취소 권한을 읽기 및 작성할 수 있습니다. 일반 애플리케이션에서는 사용하지 않습니다.</string>
     <string name="permlab_sendMockSms">모의 SMS 메시지 보내기</string>
     <string name="permdesc_sendMockSms">앱이 모의 SMS 메시지를 허용합니다. 앱이 신뢰할 수있는 애플리케이션일때 SMS를 허용합니다. 이 경우 악성 앱이 지속적으로 메시지를 보내고 장치 알림 시스템을 차단하고 사용자를 방해할수 있습니다.</string>
+	<string name="privacy_guard_custom_notification_detail">%1$s는 사용자 지정 권한을 액세스할 수 없습니다</string>
+    <string name="keyboardview_keycode_random">임의의 버튼 다시 읽어 오기</string>
+    <string name="animation_fade">페이드</string>
+    <string name="animation_slide_right">오른쪽 슬라이드</string>
+    <string name="animation_slide_left">왼쪽 슬라이드</string>
+    <string name="animation_slide_right_no_fade">오른쪽 슬라이드 (페이드 없음)</string>
+    <string name="animation_slide_left_no_fade">왼쪽 슬라이드 (페이드 없음)</string>
+    <string name="animation_slide_up">아래 슬라이드</string>
+    <string name="animation_slide_down">위 슬라이드</string>
+    <string name="animation_default">기본값</string>
+    <string name="animation_translucent">반투명</string>
+    <string name="animation_grow_shrink">그로우 (위)</string>
+    <string name="animation_grow_shrink_center">그로우 (중앙)</string>
+    <string name="animation_grow_shrink_bottom">그로우 (아래)</string>
+    <string name="animation_grow_shrink_left">그로우 (왼쪽)</string>
+    <string name="animation_grow_shrink_right">그로우 (오른쪽)</string>
+    <string name="action_null">비어있음</string>
+    <string name="stk_cc_ussd_to_dial">USSD 요청이 전화걸기 요청에 수정됩니다.</string>
+    <string name="stk_cc_ussd_to_ss">USSD 요청이 SS 요청에 수정됩니다.</string>
+    <string name="stk_cc_ussd_to_ussd">USSD 요청이 새로운 USSD 요청에 수정됩니다.</string>
+    <string name="stk_cc_ss_to_dial">SS 요청이 전화걸기 요청에 수정됩니다.</string>
+    <string name="stk_cc_ss_to_ussd">SS 요청이 USSD 요청에 수정됩니다.</string>
+    <string name="stk_cc_ss_to_ss">SS 요청은 새로운 SS 요청에 수정됩니다.</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
+    <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
 </resources>
